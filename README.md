@@ -2,7 +2,8 @@
     <head></head>
     <body>
         <p><h1>Hai</h1><h2>I'm Jotheeswaran</h2></p><br>
-        <p>A creature to Learn about <b>Web devlopment</b> and <b>Modelling</b></p>
-        <a href="https://www.instagram.com/tech_guy_creations/"></a>
+        <p>A creature to Learn about <b>Web devlopment</b> and <b>Modelling</b></p><br>
+        <p>Contact on<p><br>
+        <a href="https://www.instagram.com/tech_guy_creations/">Instagram</a>
     </body>
 </html>
