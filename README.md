@@ -3,6 +3,6 @@
     <body>
         <p><h1>Hai</h1><h2>I'm Jotheeswaran</h2></p><br>
         <p>A creature to Learn about <b>Web devlopment</b> and <b>Modelling</b></p><br>
-        <p>I was also interested in video editing <p>
+        <p>I was also interested in <b>video editing<b> <p>
     </body>
 </html>
